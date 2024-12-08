@@ -1,8 +1,6 @@
 # Procedural Tiny Town with L-system 
 ## Description
-A simple little town with 
-
-
+A simple procedural little town! Uses L-system to branch out and get more of a "orgnaic" look to it!
 
 ### Code
 Originally uploaded to Gitlab, only asset code is provided here!!
